@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # My apps.
-    'pizzeria',
+    'pizzeria_project',
     # The Django admin.
     'django.contrib.admin',
     'django.contrib.auth',
